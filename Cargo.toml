@@ -1,6 +1,6 @@
 [package]
 name = "halloween-countdown"
-version = "1.0.0"
+version = "..1"
 edition = "2021"
 authors = ["Andrew C. Young <andrew@vaelen.org>"]
 license = "MIT"
